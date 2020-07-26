@@ -198,7 +198,7 @@
                         android:layout_marginEnd="@dimen/_8sdp"
                         android:fontFamily="@font/ubuntu_regular"
                         android:includeFontPadding="false"
-                        android:text="@string/password"
+                        android:text="@string/confirm_password"
                         android:textColor="@color/colorPrimaryText"
                         android:textSize="@dimen/_11ssp"/>
 
