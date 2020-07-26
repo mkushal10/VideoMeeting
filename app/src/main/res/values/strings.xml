@@ -3,8 +3,19 @@
     <string name="welcome_to">Welcome To</string>
     <string name="video_meeting_conference_app">Video Meeting | Conference App</string>
     <string name="sign_in_to_your_account">Sign in to your account</string>
-    <string name="email">email</string>
+    <string name="email">Email</string>
     <string name="you_example_com">you_example.com</string>
     <string name="password">Password</string>
     <string name="password_hint">\u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022</string>
+    <string name="sign_in">Sign In</string>
+    <string name="dpnt_have_account">Do not have an account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="need_details">We need a few details to get your account ready</string>
+    <string name="first_name">First Name</string>
+    <string name="kushal">Kushal</string>
+    <string name="last_name">Last Name</string>
+    <string name="neupane">Neupane</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="neupanes">Neupane</string>
+    <string name="have_account">Already have an account?</string>
 </resources>
