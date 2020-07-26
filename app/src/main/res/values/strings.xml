@@ -2,4 +2,9 @@
     <string name="app_name">VideoMeeting</string>
     <string name="welcome_to">Welcome To</string>
     <string name="video_meeting_conference_app">Video Meeting | Conference App</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="email">email</string>
+    <string name="you_example_com">you_example.com</string>
+    <string name="password">Password</string>
+    <string name="password_hint">\u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022</string>
 </resources>
